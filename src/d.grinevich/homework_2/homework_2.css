@@ -1,0 +1,24 @@
+div{
+    border: 5px solid;
+    border-left-color: grey;
+    border-top-color: grey;
+    border-bottom-color:gainsboro;
+    border-right-color:gainsboro;
+
+    height: 1200px;
+    width: 330px;
+}
+
+.centerimage{
+    display: block;
+    margin: 0 auto; 
+}
+.tost{
+    line-height: 30px;
+    font-size: 20px;
+    margin-top: 0px;
+}
+.padd{
+    padding-left: 15px;
+    font-size: 17px;
+}
