@@ -1,0 +1,53 @@
+
+
+.second{
+    height: 1000px;
+    width:302px;
+    border-left: 5px solid #9A9A9A;
+    border-right: 5px solid #EEEEEE;
+    border-top: 5px solid #9A9A9A;
+    border-bottom: 5px solid #EEEEEE;   
+}
+.shekspir{
+    text-align:right
+}
+.line-throught{
+    text-decoration: line-through;
+}
+.autorSherspir{
+    text-align: right;
+    font-style:italic;
+}
+.naz1{
+    font-weight:bold;
+    font-style:italic;
+    font-size:larger;
+}
+.naz2{
+    font-weight:bold;
+}
+.vysockiy{
+    text-align:center;
+    font-family: cursive;
+    font-size:14px;
+}
+.autorVysockiy{
+    text-align: right;  
+    font-family: cursive;
+    font-size:14px;
+}
+.tost1{
+    font-weight:bold;
+    font-size: x-large;
+}
+.tost{
+    text-align: left;  
+    font-family: serif;
+    font-size:18px;
+}
+.autorNeiz{
+    text-align: right;  
+    font-family: cursive;
+    font-size:14px;
+}
+}
