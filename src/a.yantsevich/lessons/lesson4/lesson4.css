@@ -1,0 +1,27 @@
+.block1 {
+    border: black solid;
+}
+
+.block2 {
+    border: yellow double;
+}
+
+.block3 {
+    border: brown groove;
+}
+
+.block4 {
+    border: 2ps pink inset;
+}
+
+.block5 {
+    border: 2px dashed green;
+}
+
+.block6 {
+    border: 2px dotted purple;
+}
+
+.block7 {
+    border: 2px black outset;
+}
