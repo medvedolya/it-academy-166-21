@@ -4,9 +4,12 @@ div{
     border-top-color: grey;
     border-bottom-color:gainsboro;
     border-right-color:gainsboro;
-
-    height: 1240px;
-    width: 330px;
+    font-family: Arial, Verdana , 'Times New Roman', Times, sans-serif;
+    font-size: 14px;
+    line-height: 21px;
+    height: 1255px;
+    width: 335px;
+    
 }
 
 .centerimage{
@@ -21,4 +24,5 @@ div{
 .padd{
     padding-left: 15px;
     font-size: 17px;
+    margin-top: auto;
 }
