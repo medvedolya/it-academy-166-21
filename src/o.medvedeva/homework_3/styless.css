@@ -208,52 +208,63 @@ body{
     height: 90px;
     margin-left: 30%;
 }
-.r1{
-    border: 100px solid transparent;
-    background-position: left ;
-    background-repeat: no-repeat;
-    background-size: 10%;
-    height: 10%;
-    margin: -69px;
-}
-.r2{
-    border: 95px solid transparent;
-    background-image: url(./topl.png);
-    background-position: left ;
-    background-repeat: repeat-y;
-    background-size: 4%;
-    margin-left: -69px;
 
+.hapka10 {
+        display: block;
+        width: 70%;
+        margin: auto;
 }
-.r3{
-    background-image: url(./toplc\(3\).png);
-    border: 100px solid transparent;
-    background-position: left ;
+.vg{
+    background-image: url("v.png");
+    background-position: left center;
+    background-repeat: repeat-y;
+    background-size: 15px;
+}
+.vg1{
+    background-image: url("v.png");
+    background-position: right center;
+    background-repeat: repeat-y;
+    background-size: 15px;
+}
+}
+.h{
+    background-image: url("h.png");
+    background-position: top center;
+    background-repeat: repeat-x;
+    background-size: 100px;
+}
+.hg1{
+    background-image: url("h.png");
+    background-position: bottom center;
+    background-repeat: repeat-x;
+    background-size: 100px;
+}
+.Lv{
+    background-image: url("Lv.png");
+    background-position: top left;
     background-repeat: no-repeat;
-    background-size: 10%;
-    margin: -69px;
-    
-    
+    background-size: 32px;
 }
-.r4{
-    border: 30px solid transparent;
-    background-image: url(./topl\(1\).png);
-    background-position: left;
-    background-repeat: repeat-x;
-    background-size: 34%;
-    height: 40%;
-    margin-left: 120px;
-    margin-top: -63px;
-    margin-bottom: -10px;
+.Lv1{
+    background-image: url("Lv1.png");
+    background-position: bottom left;
+    background-repeat: no-repeat;
+    background-size: 32px;
 }
-.r5{
-    border: 30px solid transparent;
-    background-image: url(./topl\(1\).png);
-    background-position: left;
-    background-repeat: repeat-x;
-    background-size: 34%;
-    height: 40%;
-    margin-left: 120px;
-    margin-top: 62px;
-    margin-bottom: -10px;
+.Rv{
+    background-image: url("Rv.png");
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: 32px;
+}
+.Rv1{
+    background-image: url("Rv1.png");
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-size: 32px;
+}
+.text{
+    text-align: center;
+    padding: 40px;
+    margin: 10px;
 }
